@@ -262,6 +262,7 @@ th, td {
 
     nav {
         position: static;
+        text-align: center;
     }
 
     nav a {
@@ -281,7 +282,7 @@ th, td {
 
     .produtos li {
         width: auto;
-        margin: 0 0.6em 1em;
+        margin: 0 3.6em 1em;
     }
 
     /* Parte da página de contato */
